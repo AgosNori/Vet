@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Roboto:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(257deg, rgba(255, 255, 255, 1) 0%, rgba(213, 180, 180, 1) 21%, rgba(174, 191, 194, 1) 100%);
+}
+
+.nav .nav-item .nav-link {
+    color: black;
+}
+
+.nav .nav-item .home {
+    color: rgb(81, 22, 32);
+}
+
+.banner .foto {
+    margin-top: 5%;
+    margin-left: 13%;
+}
+
+.texto h2 {
+    margin-top: -30%;
+    margin-left: 60%;
+}
+
+.txtBanner {
+    color: blueviolet;
+    width: 20%;
+    margin-left: 60%;
+    font-size: 120%;
+    /*para cambiar el tamaño de la fuente*/
+}
+
+.card {
+    margin-top: 10%;
+    margin-left: 8%;
+}
+
+.card2 {
+    margin-left: 40%;
+    margin-top: -25%;
+}
+
+.card3 {
+    margin-left: 73%;
+    margin-top: -25%;
+}
+
+h2 {
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.card5 {
+    margin-left: 40%;
+    margin-top: -25%;
+
+}
+
+.card6 {
+    margin-left: 73%;
+    margin-top: -25%;
+}
+
+h3 {
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+.ubi {
+    margin-left: 15%;
+    margin-top: 3%;
+    background-color: #eeeae2;
+
+}
+
+#mapa {
+    background: #eeeae2;
+    height: 600px;
+
+}
+
+.lugares {
+    margin-top: -25%;
+    margin-left: 66%;
+}
+
+.nav-item .nav-link:hover {
+    color: rgb(143, 78, 89);
+}
+
+.video {
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+h4 {
+    margin-left: 35%;
+}
+
+footer {
+    background: linear-gradient(257deg, rgba(255, 255, 255, 1) 0%, rgba(213, 180, 180, 1) 21%, rgba(174, 191, 194, 1) 100%);
+    width: 1455px;
+
+}
+.logos .face{
+    width: 45px;
+    margin-top: 5px;
+    margin-left: 22%;
+}
+.logos .insta{
+    width: 45px;
+    margin-left: 10%;
+}
+.logos .linke{
+    width: 45px;
+    margin-left: 10%;
+}
+.logos .twitt{
+    width: 45px;
+    margin-left: 10%;
+}
+.logos .whats{
+    width: 45px;
+    margin-left: 10%;
+}
+.formulario{
+    width: 30%;
+    margin-left: 33%;
+    margin-top: 20px;
+}
+.enviar{
+    margin-left: 70%;
+    margin-top: -4px;
+}
+footer p{
+    margin-left: 44%;
+}
